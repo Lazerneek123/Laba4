@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\bin\Debug\Exceptions_1.exe.config
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\bin\Debug\Exceptions_1.exe
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\bin\Debug\Exceptions_1.pdb
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\obj\Debug\Exceptions_1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\obj\Debug\Exceptions_1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\obj\Debug\Exceptions_1.exe
+C:\Users\lenovo\Desktop\Домашка 2 курс\ООП\1 семестр\Лаб4\ConsoleApp1\Exceptions_1\obj\Debug\Exceptions_1.pdb
